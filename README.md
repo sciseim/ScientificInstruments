@@ -11,7 +11,7 @@ Column BJ (budget_dummy) is a transformation of the Budget variable. 1 = 80.000 
 Column BL (gov_dummy) is a transformation of the Government Funds variable. 2 = 76% of funding stems from the government, 1 = 75% or less of funding stems from the government.
 Column BO (response_half) refers to if the respondent's answer was among the first half of all respondents (0), or latter half (1).
 Column BP (age_dummy1977) refers to the respondent's age. 0 = born before 1976, 1 = born after 1976.
-Column BQ (impact_dummy7) refers to the impact factor of the respondent's best publicatoin. 0 = impact factor of 6 or less, 1 = impact factor of 7 or more
+Column BQ (impact_dummy7) refers to the impact factor of the respondent's best publicatoin. 0 = impact factor of 6 or less, 1 = impact factor of 7 or more.
 Columns BR to BV (Professor_responsehalf	Assocprofessor_responsehalf	Assistprofessor_responsehalf	Postdoc_responsehalf	PhDstudent_responsehalf) combines employment status and response half variables.
 
 Survey 2: Explanation of transformed variables
