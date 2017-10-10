@@ -17,5 +17,6 @@ Column CD (Young_highimpact7) refers to if young scholar have published in journ
 Column CG (Young_highimpact9) ibid.
 
 Survey 2: Explanation of transformed variables
+Column J (government_dummy) is a transformation of the Government Funds variable. 1 = 76% or more of funding stems from the government, 0 = 75% or less of funding stems from the government. 
 Columns M-Q (Reliable_peerreview	Reliable_starscientist	Reliable_highimpact	Reliable_industrycoauthor	Reliable_firmcoauthor) refer to questions about the reliability of information on scientific instruments in various types of publication outlets.
 Budget and Government dummies follow same principles as in Survey 1.
