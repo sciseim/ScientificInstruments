@@ -8,13 +8,13 @@ Column AU (ICA_none) refers to if the respondent has answered yes to any of the 
 Colummn AX (impact_factor) refers to the 2-year Thompson Reuter impact factor of the respondent's best publication.
 Column BA (US1EU0) refers to where the respondent's university is located.
 Column BM (budget_dummy) is a transformation of the Budget variable. 1 = 80.000 Euros and higher, 0 = less than 80.000 Euros.
-Column BO (gov_dummy) is a transformation of the Government Funds variable. 2 = 76% or more of funding stems from the government, 1 = 75% or less of funding stems from the government.
-Column BR (response_half) refers to if the respondent's answer was among the first half of all respondents (0), or latter half (1).
-Column BS (age_dummy1977) refers to the respondent's age. 0 = born before 1976, 1 = born after 1976.
-Column BT (impact_dummy7) refers to the impact factor of the respondent's best publication. 0 = impact factor of 6 or less, 1 = impact factor of 7 or more. Same principle for other impact_dummies, BZ and CA).
-Columns BU to BY (Professor_responsehalf	Assocprofessor_responsehalf	Assistprofessor_responsehalf	Postdoc_responsehalf	PhDstudent_responsehalf) combines employment status and response half variables (1 = early, 2 = late).
-Column CD (Young_highimpact7) refers to if young scholar have published in journals with impact factor of 7 or more (= 2).
-Column CG (Young_highimpact9) ibid.
+Column BN (gov_dummy) is a transformation of the Government Funds variable. 2 = 76% or more of funding stems from the government, 1 = 75% or less of funding stems from the government.
+Column BQ (response_half) refers to if the respondent's answer was among the first half of all respondents (0), or latter half (1).
+Column BR (age_dummy1977) refers to the respondent's age. 0 = born before 1976, 1 = born after 1976.
+Column BS (impact_dummy7) refers to the impact factor of the respondent's best publication. 0 = impact factor of 6 or less, 1 = impact factor of 7 or more. Same principle for other impact_dummies, BZ and CA).
+Columns BT to BX (Professor_responsehalf	Assocprofessor_responsehalf	Assistprofessor_responsehalf	Postdoc_responsehalf	PhDstudent_responsehalf) combines employment status and response half variables (1 = early, 2 = late).
+Column CC (Young_highimpact7) refers to if young scholar have published in journals with impact factor of 7 or more (= 2).
+Column CF (Young_highimpact9) ibid.
 
 Survey 2: Explanation of transformed variables
 Column J (government_dummy) is a transformation of the Government Funds variable. 1 = 76% or more of funding stems from the government, 0 = 75% or less of funding stems from the government. 
