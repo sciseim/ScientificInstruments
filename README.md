@@ -4,6 +4,7 @@ The dataset is based on two surveys that gauged academics’ perceptions on the 
 
 Survey 1: Explanation of transformed variables
 Columns AH to AM (Ref_peer_reviewed_j	Ref_star_scientist	Ref_high_impact	Ref_industry_coauthor	Ref_firm_coauthor	Ref_in_high_impact_expensiveVSch) all refer to questions about the importance of information on scientific instruments in various types of publication outlets. 1 = references are very important, 5 = references not important at all.
+Column AO (patents) refers to if the respondent has submitted a patent application. 1 = yes, 0 = no.
 Column AU (ICA_none) refers to if the respondent has answered yes to any of the questions related to (ICA) entrepreneurial activity. 1 = entrepreneurial activity.
 Colummn AX (impact_factor) refers to the 2-year Thompson Reuter impact factor of the respondent's best publication.
 Column BA (US1EU0) refers to where the respondent's university is located.
@@ -17,6 +18,6 @@ Column CC (Young_highimpact7) refers to if young scholar have published in journ
 Column CF (Young_highimpact9) ibid.
 
 Survey 2: Explanation of transformed variables
-Column I (government_dummy) is a transformation of the Government Funds variable. 1 = 76% or more of funding stems from the government, 0 = 75% or less of funding stems from the government. 
+Identical variables follow the same principles as above.
 Columns L-P (Reliable_peerreview	Reliable_starscientist	Reliable_highimpact	Reliable_industrycoauthor	Reliable_firmcoauthor) refer to questions about the reliability of information on scientific instruments in various types of publication outlets.
 Budget and Government (1 = high, 0 = low) dummies follow same principles as in Survey 1.
